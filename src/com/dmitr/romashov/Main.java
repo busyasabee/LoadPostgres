@@ -9,7 +9,7 @@ public class Main {
         long startTime = 0;
         long endTime;
         long elapsedTime;
-        int countIterations = 1000;
+        int countIterations = 10;
         int counter = 0;
 
         try {
